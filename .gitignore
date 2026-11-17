@@ -24,3 +24,7 @@ data/processed/*
 
 # IDE
 .vscode/
+
+# Trained machine learning models
+models/*
+!models/.gitkeep

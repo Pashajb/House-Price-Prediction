@@ -56,3 +56,4 @@ query = f"""
 
 for row in con.execute(query).fetchall():
     print(row)
+    
